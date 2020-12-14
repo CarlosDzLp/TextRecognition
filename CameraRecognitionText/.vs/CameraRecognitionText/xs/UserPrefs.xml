@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7E8C7D2E-56FB-4DC6-AA14-18283165141B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CameraRecognitionText AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CameraRecognitionText/MainActivity.cs">
+    <Files>
+      <File FileName="CameraRecognitionText/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CameraRecognitionText" expanded="True">
+            <Node name="CameraRecognitionText" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carlosdiazlopez/Projects/CameraRecognitionText/CameraRecognitionText/MainActivity.cs" relfile="CameraRecognitionText/MainActivity.cs" line="58" column="1" />
+      <Breakpoint file="/Users/carlosdiazlopez/Projects/CameraRecognitionText/CameraRecognitionText/MainActivity.cs" relfile="CameraRecognitionText/MainActivity.cs" line="69" column="1" />
+      <Breakpoint file="/Users/carlosdiazlopez/Projects/CameraRecognitionText/CameraRecognitionText/MainActivity.cs" relfile="CameraRecognitionText/MainActivity.cs" line="89" column="1" />
+      <Breakpoint file="/Users/carlosdiazlopez/Projects/CameraRecognitionText/CameraRecognitionText/MainActivity.cs" relfile="CameraRecognitionText/MainActivity.cs" line="64" column="1" />
+      <Breakpoint file="/Users/carlosdiazlopez/Projects/CameraRecognitionText/CameraRecognitionText/MainActivity.cs" relfile="CameraRecognitionText/MainActivity.cs" line="133" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
